@@ -1,0 +1,15 @@
+[project]
+name = "ki-minimax-h3-reftovideo"
+version = "1.0.0"
+description = "ki MiniMax H3 Reference to Video - extended official node with 22-step short-edge ref_image_size options (1.2~3.1) between match and max for fine speed/identity control"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/jianzeki-dot/ComfyUI-ki-MiniMax-H3-Ref"
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ki MiniMax H3 Reference to Video"
+Icon = ""
