@@ -1,0 +1,3 @@
+# 本插件无额外 pip 依赖（torch / torchaudio 为 ComfyUI 自带）。
+# 唯一硬性要求：ComfyUI 版本需内置 MiniMax H3 官方节点
+# （comfy_extras/nodes_minimax_h3.py），否则导入时报错提示更新 ComfyUI。
